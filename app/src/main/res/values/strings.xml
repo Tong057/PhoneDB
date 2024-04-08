@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Phone DB</string>
+    <string name="menu_clear_data">Clear all data</string>
+    <string name="brand">Brand</string>
+    <string name="model">Model</string>
+    <string name="android_version">Android\nVersion</string>
+    <string name="website">Web site</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="error_empty">It can\'t be empty!</string>
+    <string name="toast_database_deleted">Database has been deleted</string>
+    <string name="toast_fields_empty">Some fields are empty</string>
+    <string name="toast_invalid_website">This website can\'t be opened</string>
+
+</resources>
